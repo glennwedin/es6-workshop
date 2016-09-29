@@ -38,10 +38,10 @@ By the time that the workshop is over (time permitting), all of your tests will 
 You will need to start by cloning this repo, then you'll run a simple `setup` script which will install all the
 dependencies and validate that you're ready to go. From your terminal, type:
 
-```
+```git
 git clone https://github.com/kentcdodds/es6-workshop.git
 cd es6-workshop
-npm run setup
+npm run install
 ```
 
 If this finishes without issues, great 👏! However, if you have problems, please file an issue on this repo [here](https://github.com/kentcdodds/es6-workshop/issues/new?title=Issues%20Setting%20Up&body=Here%27s%20my%20node/npm%20version%20and%20the%20output%20when%20I%20run%20the%20commands:).
