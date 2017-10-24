@@ -39,7 +39,7 @@ You will need to start by cloning this repo, then you'll run a simple `setup` sc
 dependencies and validate that you're ready to go. From your terminal, type:
 
 ```git
-git clone https://github.com/kentcdodds/es6-workshop.git
+git clone https://github.com/glennwedin/es6-workshop.git
 cd es6-workshop
 npm run install
 ```
